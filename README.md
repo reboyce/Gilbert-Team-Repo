@@ -1,5 +1,5 @@
 # Gilbert Crew Capstone Project
-## Ryan Burger, Hannah Bowman, Telma Ashton, Reece Boyce, Chris Christensen 
+#### Ryan Burger, Hannah Bowman, Telma Ashton, Reece Boyce, Chris Christensen 
 ![](https://c.tenor.com/0DnrqvZqHGUAAAAC/movie-excited.gif)
 
 ## Summary
