@@ -1,6 +1,6 @@
 # Gilbert Crew Capstone Project
 ![](https://c.tenor.com/0DnrqvZqHGUAAAAC/movie-excited.gif)
-#### Produced by: Gilbert Crew 
+##### Produced by: Gilbert Crew 
 ### Ryan Burger, Hannah Bowman, Telma Ashton, Reece Boyce, Chris Christensen 
 
 ## Summary
