@@ -29,9 +29,9 @@ Here we came to a final conclusions of our three recommendations gathered in the
 
 ### DataFrames 
 [IMDB](https://github.com/reboyce/Gilbert-Team-Repo/blob/main/Notebooks/Files/im.db.zip)
-[Rotten Tomatoes Movie Information](https://github.com/reboyce/Gilbert-Team-Repo/blob/main/Notebooks/Files/rt.movie_info.tsv.gz)
-[Rotten Tomatoes Reviews](https://github.com/reboyce/Gilbert-Team-Repo/blob/main/Notebooks/Files/rt.reviews.tsv.gz)
-[TMDB Movies](https://github.com/reboyce/Gilbert-Team-Repo/blob/main/Notebooks/Files/tmdb.movies.csv.gz)
+- [Rotten Tomatoes Movie Information](https://github.com/reboyce/Gilbert-Team-Repo/blob/main/Notebooks/Files/rt.movie_info.tsv.gz)
+- [Rotten Tomatoes Reviews](https://github.com/reboyce/Gilbert-Team-Repo/blob/main/Notebooks/Files/rt.reviews.tsv.gz)
+- [TMDB Movies](https://github.com/reboyce/Gilbert-Team-Repo/blob/main/Notebooks/Files/tmdb.movies.csv.gz)
 
 
 ### Notebooks
