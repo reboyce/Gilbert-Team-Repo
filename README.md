@@ -7,6 +7,9 @@ In this project we were charged with exploring what types of films are currently
 
 After exploring the Imdb and Rotten Tomatoes database we were able to come to 3 recommendations based of data analysis on genre, runtime, actors, directors/writers, revenue and competitor studios.
 
+##### Data Cleaning 
+
+
 ## Sources
 ### Data
 All of our data files from individual exploration, version changes and final notebook can be found on the link below:
