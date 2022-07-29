@@ -2,7 +2,6 @@
 ![](https://c.tenor.com/0DnrqvZqHGUAAAAC/movie-excited.gif)
 #### Produced by: Gilbert Crew 
 ## Ryan Burger, Hannah Bowman, Telma Ashton, Reece Boyce, Chris Christensen 
-###
 
 ## Summary
 In this project we were charged with exploring what types of films are currently doing the best at the box office using different samples of available data. Through our analysis we translated our findings into actionable insights that the head of Computing Vision's new movie studio can use to help decide what type of films to create.
