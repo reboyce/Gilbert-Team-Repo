@@ -26,7 +26,15 @@ Here we came to a final conclusions of our three recommendations gathered in the
 
 
 ## Sources
-### Data
+
+### DataFrames 
+[IMDB](https://github.com/reboyce/Gilbert-Team-Repo/blob/main/Notebooks/Files/im.db.zip)
+[Rotten Tomatoes Movie Information](https://github.com/reboyce/Gilbert-Team-Repo/blob/main/Notebooks/Files/rt.movie_info.tsv.gz)
+[Rotten Tomatoes Reviews](https://github.com/reboyce/Gilbert-Team-Repo/blob/main/Notebooks/Files/rt.reviews.tsv.gz)
+[TMDB Movies](https://github.com/reboyce/Gilbert-Team-Repo/blob/main/Notebooks/Files/tmdb.movies.csv.gz)
+
+
+### Notebooks
 All of our data files from individual exploration, version changes and final notebook can be found on the link below:
 - [Notebooks link](https://github.com/reboyce/Gilbert-Team-Repo/tree/main/Notebooks)
 
