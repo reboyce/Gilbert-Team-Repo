@@ -7,7 +7,8 @@ In this project we were charged with exploring what types of films are currently
 
 After exploring the Imdb and Rotten Tomatoes database we were able to come to 3 recommendations based of data analysis on genre, runtime, actors, directors/writers, revenue and competitor studios.
 
-##### Data Cleaning 
+### Data Cleaning
+There was some inital data cleaning that needed to be done. There were multiple null values that needed to be changed to 0 or dropped completely from the dataframe so that the data could be analyzed correctly. 
 
 
 ## Sources
