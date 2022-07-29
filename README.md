@@ -15,13 +15,13 @@ We obatined the dataframes from the client and moved them into our repository.
 ### Cleaning
 There was some inital data cleaning that needed to be done. There were multiple null values that needed to be changed to 0 or dropped completely from the dataframe so that the data could be analyzed correctly. 
 
-### Explore 
+### Exploring
 Basic exploration was conducted to gain a better understanding of the data we were given. This helped in putting us into the right direction to formulize the reccomendations. 
 
 ### Modeling
 After cleaning and exploring the data we were able to create tables and visualizations that led us to be able to interpret the data. 
 
-### Interpet
+### Interpeting
 Here we came to a final conclusions of our three recommendations gathered in the rest of the data science steps 
 
 
