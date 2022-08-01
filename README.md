@@ -45,7 +45,7 @@ Our presentation shows a summary of our data analysis using visualizations from 
 
 ## Navigating Repository
 Instructions on navigating repository:
-- Click [here](https://github.com/reboyce/Gilbert-Team-Repo) to access our repositoy. The link will go to the main page of the repository
+- Click [here](https://github.com/reboyce/Gilbert-Team-Repo) to access our repository. The link will go to the main page of the repository
 - Go to Notebooks folder and inside the folder you will find:
     - Files folder with all the data explored for our analysis
     - Image folder with the ER diagram for the Imdb data files
