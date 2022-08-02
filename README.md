@@ -73,20 +73,20 @@ Below we have all the libraries we used for our code (also referenced on the rep
 
 During our analyis for Computing Vision we were striving to provide 3 recommendations that help their firm succeed in creating a new film studio. Our first recommendation is film genre selection. The least successful film Genre's include History, Music/Musical, Sports, and Western films based off of ratings and revenue. We can confidentally advise that Computing Vision strive to create movies in the Action or Adventure Genre's and stay clear of the least successful ones. Our second recommendation is personnel. After analysing the most successful writers, directors, and actors by net revenue we can suggest the following options for a sucessful film.
 
-Actors:
-    - Chris Evans
-    - Robert Downey Jr.
-    - Chris Hemsworth 
+Actors/Actresses:
+    - Scarlett Johansson
+    - Chris Evans 
+    - Steve Carell
 
 Writers:
-    - Brian Lynch
-    - Chris Morgan 
-    - Christopher Markus 
+    - Chico Paul
+    - Suzanne Collins 
+    - Neal Purvis 
 
 Directors:
-    - Josh Whedon
-    - James Wan 
-    - Ryan Coogler
+    - Pierre Coffin 
+    - Francis Lawrence 
+    - Sam Mendez 
 
 Our final recommendation is movie runtime. Using a one tail T-Test we tested our hypothesis that there was a statistically significant increase in runtime for movies with the highest ratings and revenue. After we tested the data we concluded that the top 100 movies by revenue and ratings had significantly higher runtime than average films and that Computing Vision should keep movie runtimes between 118 minutes -130 minutes to reap the most benefit.
 
