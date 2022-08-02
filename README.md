@@ -81,12 +81,12 @@ Actors:
 Writers:
     - Brian Lynch
     - Chris Morgan 
-    - Christopher Marcus 
+    - Christopher Markus 
 
 Directors:
     - Josh Whedon
     - James Wan 
-    - Anthony Russo
+    - Ryan Coogler
 
 Our final recommendation is movie runtime. Using a one tail T-Test we tested our hypothesis that there was a statistically significant increase in runtime for movies with the highest ratings and revenue. After we tested the data we concluded that the top 100 movies by revenue and ratings had significantly higher runtime than average films and that Computing Vision should keep movie runtimes between 118 minutes -130 minutes to reap the most benefit.
 
