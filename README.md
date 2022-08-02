@@ -41,7 +41,7 @@ All of our data files from individual exploration, version changes and final not
 ### Presentation
 Our presentation shows a summary of our data analysis using visualizations from Matplotlib and Seaborn libraries, our findings from the analysis and statistical tests, and our 3 final recommendations.
 
--[Presentation link]()
+- [Presentation link](https://github.com/reboyce/Gilbert-Team-Repo/blob/main/Final%20Documents/presentation.pdf)
 
 ## Navigating Repository
 Instructions on navigating repository:
